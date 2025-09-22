@@ -11,11 +11,11 @@ const Navbar = ({ section }) => {
   return (
     <nav className='navbar'>
       <div className="logo">
-        <img src="/assets/images/Logo Container.png" alt="any" />
+        <img src="assets/images/Logo Container.png" alt="any" />
       </div>
 
       <button className='over-btn' onClick={toggleMenu}>
-        <img src="/assets/images/Button.png" alt="" />
+        <img src="assets/images/Button.png" alt="" />
       </button>
 
       <ul className={`sec ${isMenuOpen ? 'open' : ''}`}>

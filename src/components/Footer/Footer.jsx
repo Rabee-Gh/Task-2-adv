@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-left">
           <div className="logo-info">
-            <div className="flogo"> <img src='/assets/images/shape-14.png'/> Little Learners</div>
+            <div className="flogo"> <img src='assets/images/shape-14.png'/> Little Learners</div>
             <p className="tagline">We believe in the power of play to foster creativity, problem-solving skills, and imagination.</p>
           </div>
           <div className="contact-info">
